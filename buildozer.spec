@@ -20,3 +20,9 @@ fullscreen = 1
 
 # (str) Supported orientation (one of: landscape, portrait, all)
 orientation = portrait
+
+requirements = python3==3.7.6,hostpython3==3.7.6,kivy,pillow
+
+osx.python_version = 3.7.6
+
+osx.kivy_version = 1.9.1
